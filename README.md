@@ -182,21 +182,11 @@ SafeDrive/
 
 Add screenshots of:
 
-1. Home Dashboard
-2. Driving Session Started
-3. Event Detection Working
-4. Event Timeline
-5. Final Drive Summary
-6. Safety Rating Display
+<img width="414" height="1000" alt="first page" src="https://github.com/user-attachments/assets/3de0273f-0803-413a-9adc-0446326b0013" />
+<img width="414" height="1000" alt="second page" src="https://github.com/user-attachments/assets/e7c882d9-3769-40cd-944c-ad425833cd18" />
+<img width="414" height="1000" alt="third page" src="https://github.com/user-attachments/assets/68a90c60-8410-4951-a760-ce7d8b15f3f2" />
 
-Example:
 
-* dashboard.png
-* drive-session.png
-* event-timeline.png
-* summary-screen.png
-
----
 
 ## Future Enhancements
 
