@@ -182,9 +182,9 @@ SafeDrive/
 
 Add screenshots of:
 
-<img width="314" height="600" alt="first page" src="https://github.com/user-attachments/assets/3de0273f-0803-413a-9adc-0446326b0013" />
-<img width="314" height="600" alt="second page" src="https://github.com/user-attachments/assets/e7c882d9-3769-40cd-944c-ad425833cd18" />
-<img width="314" height="600" alt="third page" src="https://github.com/user-attachments/assets/68a90c60-8410-4951-a760-ce7d8b15f3f2" />
+<img width="314" height="800" alt="first page" src="https://github.com/user-attachments/assets/3de0273f-0803-413a-9adc-0446326b0013" />
+<img width="314" height="800" alt="second page" src="https://github.com/user-attachments/assets/e7c882d9-3769-40cd-944c-ad425833cd18" />
+<img width="314" height="800" alt="third page" src="https://github.com/user-attachments/assets/68a90c60-8410-4951-a760-ce7d8b15f3f2" />
 
 
 
